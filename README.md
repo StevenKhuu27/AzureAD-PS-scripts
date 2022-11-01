@@ -1,6 +1,6 @@
 ## AzureAD-PS-scripts
 
-###Onboarding
+#### Onboarding
 ```
 ./user_onboarding.ps1
 -firstname <"First name of the new user">
@@ -19,7 +19,7 @@
 -$street_addr <"The street address of the primary office"> 
 ```
 
-###Offboarding
+#### Offboarding
 ```
 ./user_offboarding.ps1
 -user <"User principle name of the offboarding user">
